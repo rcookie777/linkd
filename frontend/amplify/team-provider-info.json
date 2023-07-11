@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-linkd-dev-212509-authRole",
+      "UnauthRoleArn": "arn:aws:iam::747213394280:role/amplify-linkd-dev-212509-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::747213394280:role/amplify-linkd-dev-212509-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-linkd-dev-212509-deployment",
+      "UnauthRoleName": "amplify-linkd-dev-212509-unauthRole",
+      "StackName": "amplify-linkd-dev-212509",
+      "StackId": "arn:aws:cloudformation:us-east-2:747213394280:stack/amplify-linkd-dev-212509/1e4ecf20-1c65-11ee-b6e6-06e0f6e32cd1",
+      "AmplifyAppId": "dynto0tettfys"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dynto0tettfys",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
